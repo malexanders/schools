@@ -1,7 +1,8 @@
 Rails.application.routes.draw do
-  get 'schools/index'
+  get 'schools/' => 'schools#index', defaults: {format: :json}
+  get 'schools/:slug' => 'schools#show', defaults: {format: :json}
 
-  get 'schools/show'
+  # resources :clients, only: [:index, :show], defaults: {format: :json}
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
