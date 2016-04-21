@@ -1,0 +1,74 @@
+Name,Type,Min available grade,Max available grade,Phone number,Website,Language,Created at,Updated at,Is catholic,Level,Street,Postal code,Latitude
+St. Jean-Marie Vianney Catholic Elementary School,public,,,,http://www.dpcdsb.org/VIANN,,2013-08-21 14:44,2016-04-19 2:41,TRUE,"[""elementary""]",75 Jordensen Drive,L6X 0S1,43.6697916
+Cartwright Central Public School,public,0,8,905-986-4227,http://www.ddsb.ca/school/cartwrightcentral,,2015-05-20 20:15,2016-04-02 2:40,FALSE,"[""elementary""]", 10 Alexander St,L0B 1B0,44.112257
+Port Perry High School,public,9,12,905-985-7337,http://www.ddsb.ca/school/portperryhs/Pages/default.aspx,french immersion,2015-05-20 20:15,2016-04-19 2:41,FALSE,"[""secondary""]",160 Rosa St,L9L 1L7,44.103605
+S A Cawker Public School,public,0,8,905-985-4491,http://www.ddsb.ca/school/sacawker/Pages/default.aspx,,2015-05-20 20:15,2016-04-19 2:41,FALSE,"[""elementary""]",16200 Old Simcoe Rd,L9L 1P3,44.113757
+R H Cornish Public School,public,0,8,905-985-4468,http://www.ddsb.ca/school/rhcornish/Pages/default.aspx,french immersion,2015-05-20 20:15,2016-04-19 2:41,FALSE,"[""elementary""]",494 Queen St,L9L 1K2,44.100429
+Prince Albert Public School,public,0,8,905-985-2877,http://www.ddsb.ca/school/princealbert/Pages/default.aspx,,2015-05-20 20:15,2016-03-11 1:31,FALSE,"[""elementary""]", 13700 Old Simcoe Rd,L9L 1C3,44.080359
+Greenbank Public School,public,0,8,905-985-2567,http://www.ddsb.ca/school/greenbank/Pages/default.aspx,,2015-05-20 20:15,2016-04-06 2:37,FALSE,"[""elementary""]", 1325 Cragg Rd,L0C 1B0,44.154067
+Good Shepherd C.S.,public,-1,8,905-985-0153,http://gshepherd.dcdsb.ca,,2015-05-20 20:15,2016-04-19 2:41,TRUE,"[""elementary""]",1650 Reach St,L9L 1T1,44.111218
+Immaculate Conception C.S.,public,-1,8,905-985-0128,http://immaculate.dcdsb.ca/,,2015-05-20 20:15,2016-04-19 2:41,TRUE,"[""elementary""]",1722 Scugog Street,L9L 1E2,44.098687
+St. Bonaventure Catholic Elementary School,public,,,905-970-9069,http://www.dpcdsb.org/BONAV,,2013-08-21 14:44,2016-04-19 2:41,TRUE,"[""elementary""]",35 Mc Crimmon Drive,L7A 2Z5,43.687578
+Sir William Mulock S.S.,public,9,12,905-967-1045,http://www.sirwilliammulock.ss.yrdsb.edu.on.ca/,,2013-08-22 17:17,2016-04-19 2:41,FALSE,"[""secondary""]",705 Columbus Way,L3X 2M7,44.0324595
+Terry Fox P.S.,public,-1,8,905-967-0975,http://www.terryfox.ps.yrdsb.edu.on.ca/,,2013-08-22 17:17,2016-04-19 2:41,FALSE,"[""elementary""]",161 Sawmill Valley Drive,L3X 2T1,44.0308644
+Poplar Bank P.S.,public,1,8,905-953-8995,http://www.poplarbank.ps.yrdsb.edu.on.ca/,french immersion,2013-08-22 17:17,2016-04-19 2:41,FALSE,"[""elementary""]",400 Woodspring Ave. E,L3X 2X1,44.0627892
+St. Michael Catholic Secondary School,public,,,905-951-8935,http://www.dpcdsb.org/MICHS,,2013-08-21 14:45,2016-04-19 2:41,TRUE,"[""secondary""]",9130 Columbia Way,L7E 4G6,43.8938834
+St. John the Baptist Elementary School,public,,,905-951-8788,http://www.dpcdsb.org/JBAPT,,2013-08-21 14:44,2016-04-16 2:32,TRUE,"[""elementary""]",299 Landsbridge Street,L7E 2K4,43.8712795
+Markville S.S.,public,9,12,905-940-8840,http://www.markville.ss.yrdsb.edu.on.ca/,,2013-08-22 17:17,2016-04-18 1:26,FALSE,"[""secondary""]",1000 Carlton Rd.,L3P 7P5,43.8765504
+Central Park P.S.,public,-1,8,905-940-1444,http://www.centralpark.ps.yrdsb.edu.on.ca/,,2013-08-22 17:17,2016-04-19 2:41,FALSE,"[""elementary""]",100 Central Park Dr.,L3P 7G2,43.8795853
+Coledale P.S.,public,-1,8,905-940-0123,http://www.coledale.ps.yrdsb.edu.on.ca/,,2013-08-22 17:17,2016-04-19 2:41,FALSE,"[""elementary""]",60 Coledale Rd.,L3R 7W8,43.8647341
+St. Patrick (Schomberg) CES,public,0,8,905-939-7753,http://sps.ycdsb.ca,,2015-05-20 20:15,2016-04-15 2:45,TRUE,"[""elementary""]",51 Western Ave.,L0G 1T0,44.000615
+Schomberg P.S.,public,-1,6,905-939-7711,http://www.schomberg.ps.yrdsb.edu.on.ca/,,2013-08-22 17:17,2016-04-15 2:45,FALSE,"[""elementary""]",21 Main St.,L0G 1T0,43.9997817
+Sir Wilfrid Laurier P.S.,public,1,8,905-927-1452,http://www.sirwilfridlaurier.ps.yrdsb.edu.on.ca/,french immersion,2013-08-22 17:17,2016-04-19 2:42,FALSE,"[""elementary""]",160 Hazelton Ave.,L6C 3H6,43.896193
+Cardinal Ambrozic CSS,public,,,905-913-2989,http://www.dpcdsb.org/AMBRO,,2013-08-21 14:45,2016-04-19 2:41,TRUE,"[""secondary""]",10 Castle Oaks Crossing,L6P 3A2,43.7882555
+St. Andr_ Bessette Catholic Elementary School,public,,,905-913-2567,http://www.dpcdsb.org/BESST,,2013-08-21 14:44,2016-04-19 2:41,TRUE,"[""elementary""]",25 Riverstone Drive,L6P 2V7,43.7653685
+Our Lady of Lourdes Catholic Elementary School,public,,,905-913-1703,http://www.dpcdsb.org/LOURD,,2013-08-21 14:44,2016-04-19 2:41,TRUE,"[""elementary""]",25 Mount Royal Circle,L6P 1W3,43.789489
+Thorndale Public School,public,,,905-913-1490,http://schools.peelschools.org/1440,,2013-08-21 18:20,2016-04-19 2:41,FALSE,"[""elementary""]",133 Thorndale Road,L6P 1K5,43.7820396
+Calderstone Middle School,public,,,905-913-1162,http://schools.peelschools.org/1435,,2013-08-21 18:20,2016-04-19 2:41,FALSE,"[""elementary""]",160 Calderstone Road,L6P 2L7,43.7716866
+Castlemore Public School,public,,,905-913-0845,http://schools.peelschools.org/1426,,2013-08-21 18:20,2016-04-19 2:41,FALSE,"[""elementary""]",9916 The Gore Rd,L6P 0A7,43.7896822
+Stonehaven E.S.,public,-1,8,905-898-2077,http://www.stonehaven.es.yrdsb.edu.on.ca/,,2013-08-22 17:17,2016-04-19 2:41,FALSE,"[""elementary""]",875 Stonehaven Ave.,L3X 2K3,44.0358702
+Corpus Christi Separate School,public,,,905-897-7037,http://www.dpcdsb.org/CORPC,,2013-08-21 14:44,2016-04-19 2:41,TRUE,"[""elementary""]",4155 Elora Drive,L5B 3N4,43.5845718
+Bishop Scalabrini Separate School,public,,,905-896-3665,http://www.dpcdsb.org/BSCAL,,2013-08-21 14:44,2016-04-19 2:41,TRUE,"[""elementary""]",225 Central Parkway West,L5B 3J5,43.5848713
+Maple Leaf P.S.,public,-1,8,905-895-9681,http://www.mapleleaf.ps.yrdsb.edu.on.ca/,,2013-08-22 17:17,2016-04-16 2:32,FALSE,"[""elementary""]",155 Longford Dr.,L3Y 2Y7,44.0617217
+Alexander Muir P.S.,public,-1,8,905-895-9466,http://www.alexandermuir.ps.yrdsb.edu.on.ca/,,2013-08-22 17:17,2016-04-19 2:41,FALSE,"[""elementary""]",75 Ford Wilson Blvd.,L3X 3G1,44.0548382
+Canadian Martyrs CES,public,0,8,905-895-8530,http://cms.ycdsb.ca,,2015-05-20 20:15,2016-04-16 2:32,TRUE,"[""elementary""]",170 London Rd.,L3Y 6R5,44.063602
+Stuart Scott P.S.,public,-1,8,905-895-8461,http://www.stuartscott.ps.yrdsb.edu.on.ca/,,2013-08-22 17:17,2016-04-16 2:33,FALSE,"[""elementary""]",247 Lorne Ave.,L3Y 4K5,44.0497127
+Prince Charles P.S.,public,-1,8,905-895-8401,http://www.princecharles.ps.yrdsb.edu.on.ca/,,2013-08-22 17:17,2016-04-19 2:41,FALSE,"[""elementary""]",684 Srigley St.,L3Y 1W9,44.0561417
+St. John Chrysostom CES,public,0,8,905-895-7411,http://sjc.ycdsb.ca,,2015-05-20 20:15,2016-04-19 2:41,TRUE,"[""elementary""]",800 Joe Persechini Dr.,L3X 2S6,44.029845
+Rogers P.S.,public,-1,8,905-895-5441,http://www.rogers.ps.yrdsb.edu.on.ca/,,2013-08-22 17:17,2016-04-16 2:32,FALSE,"[""elementary""]",256 Rogers Road,L3Y 1G6,44.0462083
+Newmarket H.S.,public,9,12,905-895-5159,http://www.newmarket.hs.yrdsb.edu.on.ca/lib/nhs/index.htm,,2013-08-22 17:17,2016-04-19 2:41,FALSE,"[""secondary""]",505 Pickering Cres.,L3Y 8H1,44.0471955
+Notre Dame CES,public,0,8,905-895-5001,http://nde.ycdsb.ca,,2015-05-20 20:15,2016-04-19 2:41,TRUE,"[""elementary""]",715 Kingsmere Ave.,L3X 1L4,44.03955
+St. Paul CES,public,0,8,905-895-4122,http://spl.ycdsb.ca,,2015-05-20 20:15,2016-04-17 11:01,TRUE,"[""elementary""]",140 William Roe Blvd.,L3Y 1B2,44.041213
+St. Nicholas CES,public,0,8,905-895-3777,http://sns.ycdsb.ca,,2015-05-20 20:15,2016-04-16 2:32,TRUE,"[""elementary""]",480 Keith Ave.,L3X 1V5,44.038591
+Sacred Heart CHS,public,9,12,905-895-3340,http://sahe.ycdsb.ca,,2015-05-20 20:15,2016-04-19 2:41,TRUE,"[""secondary""]",908 Lemar Rd.,L3Y 1R9,44.057602
+Meadowbrook P.S.,public,-1,8,905-895-3081,http://www.meadowbrook.ps.yrdsb.edu.on.ca/,,2013-08-22 17:17,2016-04-19 2:41,FALSE,"[""elementary""]",233 Patterson St.,L3Y 3L5,44.0691856
+J.L.R. Bell P.S.,public,-1,5,905-895-2601,http://www.jlrbell.ps.yrdsb.edu.on.ca/,,2013-08-22 17:17,2016-04-19 2:41,FALSE,"[""elementary""]",121 Queen St.,L3Y 2E9,44.0533524
+Huron Heights S.S.,public,9,12,905-895-2384,http://www.huronheights.ss.yrdsb.edu.on.ca/,,2013-08-22 17:17,2016-04-19 2:41,FALSE,"[""secondary""]",40 Huron Heights Dr.,L3Y 3J9,44.0644345
+Glen Cedar P.S.,public,-1,8,905-895-1500,http://www.yrdsb.ca/schools/glencedar.ps/Pages/default.aspx,,2013-08-22 17:17,2016-04-19 2:41,FALSE,"["""", ""elementary""]",915 Wayne Dr.,L3Y 5W1,44.0687882
+Good Shepherd CES,public,0,8,905-895-0303,http://gsd.ycdsb.ca,,2015-05-20 20:15,2016-04-16 2:32,TRUE,"[""elementary""]",19112 2nd Concession Rd.,L9N 0H2,44.09916
+St. Stephen CES,public,0,8,905-893-7557,http://ssn.ycdsb.ca,,2015-05-20 20:15,2016-04-19 2:41,TRUE,"[""elementary""]",451 Napa Valley Ave.,L4H 1Y8,43.820863
+St. Padre Pio CES,public,0,8,905-893-7082,http://spp.ycdsb.ca,,2015-05-20 20:15,2016-04-19 2:41,TRUE,"[""elementary""]",770 Napa Valley Ave.,L4H 1W9,43.824483
+Lorna Jackson P.S.,public,-1,8,905-893-2829,http://www.lornajackson.ps.yrdsb.edu.on.ca/,,2013-08-22 17:17,2016-04-19 2:41,FALSE,"[""elementary""]",589 Napa Valley Ave.,L4H 1R1,43.8226665
+St. Andrew CES,public,0,8,905-893-1968,http://saw.ycdsb.ca,,2015-05-20 20:15,2016-04-19 2:41,TRUE,"[""elementary""]",151 Forest Fountain Dr.,L4H 1S4,43.81849
+Elder's Mills P.S.,public,1,5,905-893-1631,http://www.eldersmills.ps.yrdsb.edu.on.ca/,french immersion,2013-08-22 17:17,2016-04-19 2:41,FALSE,"[""elementary""]",120 Napa Valley Avenue,L4H 1L1,43.8142771
+Kleinburg P.S.,public,-1,8,905-893-1142,http://www.kleinburg.ps.yrdsb.edu.on.ca/,,2013-08-22 17:17,2016-01-31 17:14,FALSE,"[""elementary""]",10391 Islington Ave,L0J 1C0,43.8413357
+St. Matthew Catholic School,public,,,905-890-6898,http://www.dpcdsb.org/MATHW,,2013-08-21 14:44,2016-04-19 2:42,TRUE,"[""elementary""]",280 Kingsbridge Garden Circle,L5R 1L3,43.599698
+Huntington Ridge Public School,public,,,905-890-2170,http://schools.peelschools.org/1154,,2013-08-21 18:20,2016-04-19 2:41,FALSE,"[""elementary""]",345 Huntington Ridge Drive,L5R 1R6,43.5968857
+Roy McMurtry School,public,,,905-890-1010,http://schools.peelschools.org/sec/roymcmurtry,,2013-08-21 18:20,2016-04-19 2:41,FALSE,"[""secondary""]",8500 McLaughlin Road,L6Y 0N6,43.6673625
+St. Valentine Elementary School,public,,,905-890-0909,http://www.dpcdsb.org/VALEN,,2013-08-21 14:45,2016-04-15 2:45,TRUE,"[""elementary""]",5610 Heatherleigh Ave.,L5V 2V7,43.6019614
+Thornlea S.S.,public,9,12,905-889-9696,http://www.thornlea.ss.yrdsb.edu.on.ca/,,2013-08-22 17:17,2016-04-19 2:41,FALSE,"[""secondary""]",8075 Bayview Ave.,L3T 4N4,43.8291261
+Stornoway Crescent P.S.,public,-1,6,905-889-9535,http://www.stornowaycrescent.ps.yrdsb.edu.on.ca/,,2013-08-22 17:17,2016-04-19 2:41,FALSE,"[""elementary""]",36 Stornoway Cres.,L3T 3X7,43.8293364
+German Mills P.S.,public,-1,8,905-889-8776,http://www.germanmills.ps.yrdsb.edu.on.ca/,,2013-08-22 17:17,2016-04-19 2:41,FALSE,"[""elementary""]",61 Simonston Blvd.,L3T 4R5,43.8161902
+Baythorn P.S.,public,-1,8,905-889-7992,http://www.baythorn.ps.yrdsb.edu.on.ca/,,2013-08-22 17:17,2016-04-19 2:41,FALSE,"[""elementary""]",201 Baythorn Dr.,L3T 3V2,43.8264686
+St. Anthony CES,public,0,8,905-889-7420,http://say.ycdsb.ca,french immersion,2015-05-20 20:15,2016-04-19 2:41,TRUE,"[""elementary""]",141 Kirk Dr.,L3T 3L3,43.828962
+Wilshire E.S.,public,-1,8,905-889-6767,http://www.wilshire.es.yrdsb.edu.on.ca/,,2013-08-22 17:17,2016-04-19 2:41,FALSE,"[""elementary""]",265 Beverley Glen Blvd.,L4J 7S8,43.8131975
+Langstaff S.S.,public,9,12,905-889-6266,http://www.langstaff.ss.yrdsb.edu.on.ca/,,2013-08-22 17:17,2016-04-19 2:41,FALSE,"[""secondary""]",106 Garden Ave.,L4C 6M1,43.8372404
+Thornhill S.S.,public,9,12,905-889-5453,http://thornhill.ss.yrdsb.ca,,2013-08-22 17:17,2016-04-19 2:41,FALSE,"[""secondary""]",167 Dudley Ave.,L3T 2E5,43.8099874
+St. Robert CHS,public,9,12,905-889-4982,http://stro.ycdsb.ca,,2015-05-20 20:15,2016-04-19 2:41,TRUE,"[""secondary""]",8101 Leslie St.,L3T 7P4,43.834827
+Woodland P.S.,public,3,8,905-889-4910,http://www.woodland.ps.yrdsb.edu.on.ca/,french immersion,2013-08-22 17:17,2016-04-19 2:41,FALSE,"[""elementary""]",120 Royal Orchard Boulevard,L3T 3C9,43.8244718
+St. Michael Catholic Academy,public,0,8,905-889-4816,http://sml.ycdsb.ca,,2015-05-20 20:15,2016-04-19 2:41,TRUE,"[""elementary""]",41 Simonston Blvd.,L3T 4R6,43.813755
+Henderson Avenue P.S.,public,-1,8,905-889-3132,http://www.hendersonavenue.ps.yrdsb.edu.on.ca/,,2013-08-22 17:17,2016-04-15 2:45,FALSE,"[""elementary""]",66 Henderson Ave.,L3T 2K7,43.8058141
+E.J. Sand P.S.,public,-1,8,905-889-2753,http://www.ejsand.ps.yrdsb.edu.on.ca/,,2013-08-22 17:17,2016-04-16 2:32,FALSE,"[""elementary""]",160 Henderson Ave.,L3T 2L5,43.812007
+Charles Howitt P.S.,public,-1,8,905-889-2522,http://www.charleshowitt.ps.yrdsb.edu.on.ca/,,2013-08-22 17:17,2016-04-19 2:41,FALSE,"[""elementary""]",30 Pearson Ave.,L4C 6T7,43.8434675
+Bayview Glen P.S.,public,-1,6,905-889-2448,http://www.bayviewglen.ps.yrdsb.edu.on.ca/,,2013-08-22 17:17,2016-04-15 2:45,FALSE,"[""elementary""]",42 Limcombe Dr.,L3T 2V5,43.8103964
+Bayview Fairways P.S.,public,-1,8,905-889-1858,http://www.bayviewfairways.ps.yrdsb.edu.on.ca/,,2013-08-22 17:17,2016-04-19 2:41,FALSE,"[""elementary""]",255 Bayview Fairways Dr.,L3T 2Z6,43.8186166
