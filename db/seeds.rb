@@ -3,7 +3,7 @@ require 'csv'
 data = Rails.root + 'db/data.csv'                                 # Saves file path to variable 'data'
 data_to_array = CSV.read(data, skip_blanks: true, headers: true)  # Returns an array of arrays
 
-data_to_array.each do |row|                                       # Iterates over all rows in data.csv
+data_to_array.each do |row|                                       # Iterates over all rows
   School.create!(name: row[0],                                    # Creates a school instance for each row
                  school_type: row[1],
                  mingrade: row[2].to_i,
@@ -18,6 +18,6 @@ data_to_array.each do |row|                                       # Iterates ove
                  street: row[11],
                  postal_code: row[12],
                  latitude: row[13].to_i,
-                 boundaries: School.custom_to_json(row[14]),      # Converts string object to hash
-                 slug: School.slug(row[0]))                       # Creates slug from name column
+                 boundaries: School.custom_to_json(row[14]),      # Converts string object to json like hash object
+                 slug: School.slug(row[0]))                       # Creates slug
 end
