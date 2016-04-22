@@ -13,9 +13,18 @@ http://www.postgresql.org/download/macosx/
 For Linux
 https://wiki.postgresql.org/wiki/Detailed_installation_guides
 
-# Terminal Command Sequence:
+# Terminal Command Sequence
 1. `bundle install`
 2. `rake db:create`
 3. `rake db:migrate`
-4. `rake db:setup`
-5. `rake db:migrate`
+4. `rake db:seed`
+
+# Interfacing with School Data API
+
+Run `rails s` in terminal to start a local rails server
+
+To show json data for all school navigate to:
+http://localhost:3000/schools
+
+To show json data for a single school, navigate to:
+http://localhost:3000/schools/:slug
