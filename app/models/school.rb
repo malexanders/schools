@@ -1,5 +1,5 @@
 class School < ActiveRecord::Base
-  def self.string_keys_to_json(string)
+  def self.custom_to_json(string)
     JSON.parse string.gsub('=>', ':')
   end
 
