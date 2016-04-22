@@ -1,17 +1,21 @@
+# Ruby version
+ruby 2.2.3p173 (2015-08-18 revision 51636) [x86_64-darwin13]
 
-Run the following commands in terminal:
-`bundle install`
-`rake db:create`
-`rake db:migrate`
-`rake db:setup`
-`rake db:migrate`
+# Rails version
+Rails 4.2.5.1
 
-* Ruby version
-  ruby 2.2.3p173 (2015-08-18 revision 51636) [x86_64-darwin13]
+# Install postgresql
+If you do not already have postgresql installed and configured, follow this link:
 
-* Rails version
-  Rails 4.2.5.1
+For Mac
+http://www.postgresql.org/download/macosx/
 
-* Database creation
+For Linux
+https://wiki.postgresql.org/wiki/Detailed_installation_guides
 
-* Database initialization
+# Terminal Command Sequence:
+1. `bundle install`
+2. `rake db:create`
+3. `rake db:migrate`
+4. `rake db:setup`
+5. `rake db:migrate`
