@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
-  get 'schools/' => 'schools#index', defaults: {format: :json}
-  get 'schools/:slug' => 'schools#show', defaults: {format: :json}
+  get 'schools/' => 'schools#index', defaults: { format: :json }
+  get 'schools/:slug' => 'schools#show', defaults: { format: :json }
 
   # resources :clients, only: [:index, :show], defaults: {format: :json}
 
