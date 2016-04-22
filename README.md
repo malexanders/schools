@@ -24,7 +24,7 @@ https://wiki.postgresql.org/wiki/Detailed_installation_guides
 
 Run `rails s` in terminal to start a local rails server
 
-To show json data for all school navigate to:
+To show json data for all schools, navigate to:
 http://localhost:3000/schools
 
 To show json data for a single school, navigate to:
