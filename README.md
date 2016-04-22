@@ -20,7 +20,7 @@ https://wiki.postgresql.org/wiki/Detailed_installation_guides
 3. `rake db:migrate`
 4. `rake db:seed`
 
-# Interfacing with School Data API
+#### Interfacing with School Data API
 
 Run `rails s` in terminal to start a local rails server
 
