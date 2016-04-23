@@ -20,6 +20,9 @@ https://wiki.postgresql.org/wiki/Detailed_installation_guides
 3. `rake db:migrate`
 4. `rake db:seed`
 
+# Confirming the db has the schools data
+Run `rails c` then `School.all`
+
 # Interfacing with School Data API
 
 Run `rails s` in terminal to start a local rails server
@@ -29,3 +32,4 @@ http://localhost:3000/schools
 
 To show json data for a single school, navigate to:
 http://localhost:3000/schools/:slug
+
