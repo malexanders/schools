@@ -23,7 +23,7 @@ https://wiki.postgresql.org/wiki/Detailed_installation_guides
 # Confirming the db has the schools data
 Run `rails c` then `School.all`
 
-# Interfacing with School Data API
+# API
 
 Run `rails s` in terminal to start a local rails server
 
