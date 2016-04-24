@@ -17,7 +17,21 @@ class School < ActiveRecord::Base
                           :slug)
                           # :boundaries # Some )
 
-  # validates :name, :type => String
+  validates_type :name, :string, allow_nil: true
+  validates_type :school_type, :string
+  validates_type :mingrade, :integer
+  validates_type :maxgrade, :integer
+  validates_type :phone, :string, allow_nil: true
+  validates_type :website, :string
+  validates_type :language, :string, allow_nil: true
+  # validates_type :created_at, :date # Throughing an error for some reason.
+  validates_type :is_catholic, :string
+  validates_type :level, :string
+  validates_type :street, :string
+  validates_type :postal_code, :string
+  validates_type :latitude, :integer
+  validates_type :slug, :string
+  validates_type :boundaries, :hash
 
   def self.custom_to_json(string)
     JSON.parse string.gsub('=>', ':')
