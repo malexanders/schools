@@ -24,7 +24,7 @@ class School < ActiveRecord::Base
   validates_type :phone, :string, allow_nil: true
   validates_type :website, :string
   validates_type :language, :string, allow_nil: true
-  # validates_type :created_at, :date # Throughing an error for some reason.
+  # validates_type :created_at, :date # Throwing an error for some reason.
   validates_type :is_catholic, :string
   validates_type :level, :string
   validates_type :street, :string
