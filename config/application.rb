@@ -24,9 +24,9 @@ module Schools
     config.active_record.raise_in_transactional_callbacks = true
 
 
+    # Now when you run your generators, you get rspec test files.
     config.generators do |g|
-      g.test_framework   :rspec, :fixture => true, :views => false
-      g.integration_tool :rspec, :fixture => true, :views => true
+      g.test_framework :rspec
     end
 
 
