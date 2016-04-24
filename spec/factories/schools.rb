@@ -1,22 +1,24 @@
 FactoryGirl.define do
 
+  after(:create) { |object| p object }
+
   factory :school do
-    name
-    school_type
-    mingrade
-    maxgrade
-    phone
-    website
-    language
-    created_at
-    updated_at
-    is_catholic
-    level
-    street
-    postal_code
-    latitude
-    slug
-    boundaries
+    name nil
+    school_type nil
+    mingrade nil
+    maxgrade nil
+    phone nil
+    website nil
+    language nil
+    created_at nil
+    updated_at nil
+    is_catholic nil
+    level nil
+    street nil
+    postal_code nil
+    latitude nil
+    slug nil
+    boundaries nil
   end
 
 end
