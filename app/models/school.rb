@@ -17,6 +17,8 @@ class School < ActiveRecord::Base
                           :slug)
                           # :boundaries # Some )
 
+  # validates :name, :type => String
+
   def self.custom_to_json(string)
     JSON.parse string.gsub('=>', ':')
   end
