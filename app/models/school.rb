@@ -1,4 +1,22 @@
 class School < ActiveRecord::Base
+
+  validates_presence_of(  :name,
+                          :school_type,
+                          :mingrade,
+                          :maxgrade,
+                          # :phone, # Some schools have an empty phone field
+                          :website,
+                          # :language, # Some schools have an empty language field
+                          :created_at,
+                          :updated_at,
+                          :is_catholic,
+                          :level,
+                          :street,
+                          :postal_code,
+                          :latitude,
+                          :slug)
+                          # :boundaries # Some )
+
   def self.custom_to_json(string)
     JSON.parse string.gsub('=>', ':')
   end
