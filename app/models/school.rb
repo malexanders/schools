@@ -4,18 +4,18 @@ class School < ActiveRecord::Base
 
   validates_type :name, :string
   validates_type :school_type, :string
-  validates_type :mingrade, :integer
-  validates_type :maxgrade, :integer
+  validates_type :mingrade, :string, allow_nil: true
+  validates_type :maxgrade, :string, allow_nil: true
   validates_type :phone, :string, allow_nil: true
   validates_type :website, :string
   validates_type :language, :string, allow_nil: true
-  # validates_type :created_at, :date # Throwing an error for some reason.
-  # validates_type :updated_at, :date # Throwing an error for some reason.
+  validates_datetime :created_at
+  validates_datetime :updated_at
   validates_type :is_catholic, :string
   validates_type :level, :string
   validates_type :street, :string
   validates_type :postal_code, :string
-  validates_type :latitude, :float
+  validates_type :latitude, :string
   validates_type :slug, :string
   validates_type :boundaries, :hash
 
