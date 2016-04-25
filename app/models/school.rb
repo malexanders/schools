@@ -4,8 +4,8 @@ class School < ActiveRecord::Base
 
   validates_type :name, :string
   validates_type :school_type, :string
-  validates_type :mingrade, :integer, allow_nil: true, allow_blank: true
-  validates_type :maxgrade, :integer, allow_nil: true, allow_blank: true
+  validates_type :mingrade, :integer
+  validates_type :maxgrade, :integer
   validates_type :phone, :string, allow_nil: true
   validates_type :website, :string
   validates_type :language, :string, allow_nil: true
