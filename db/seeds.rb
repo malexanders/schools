@@ -6,8 +6,8 @@ data_to_array = CSV.read(data, skip_blanks: true, headers: true)  # Returns an a
 data_to_array.each do |row|                                       # Iterates over all rows
   School.create!(name: row[0],                                    # Creates an instance of school for each row
                  school_type: row[1],
-                 mingrade: row[2],
-                 maxgrade: row[3],
+                 mingrade: row[2].to_i,
+                 maxgrade: row[3].to_i,
                  phone: row[4],
                  website: row[5],
                  language: row[6],

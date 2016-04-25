@@ -1,7 +1,5 @@
 FactoryGirl.define do
 
-  # after(:create) { |object| p object }
-
   factory :school do
     name nil
     school_type nil
@@ -20,5 +18,7 @@ FactoryGirl.define do
     slug nil
     boundaries nil
   end
+
+  # after(:create) { |object| p object }
 
 end

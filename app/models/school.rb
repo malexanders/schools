@@ -1,21 +1,6 @@
 class School < ActiveRecord::Base
 
-  # validates_presence_of(  :name,
-  #                         :school_type,
-  #                         :mingrade,
-  #                         :maxgrade,
-  #                         :phone,
-  #                         :website,
-  #                         :language,
-  #                         :created_at,
-  #                         :updated_at,
-  #                         :is_catholic,
-  #                         :level,
-  #                         :street,
-  #                         :postal_code,
-  #                         :latitude,
-  #                         :slug,
-  #                         :boundaries  )
+  validates :slug, uniqueness: true
 
   validates_type :name, :string
   validates_type :school_type, :string
