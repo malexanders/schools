@@ -1,5 +1,4 @@
 class School < ActiveRecord::Base
-
   validates :slug, uniqueness: true
   validates :slug, format: { with: /\A[a-z]+(-[a-z]+)*\z/,
                              message: " only allows lowercase letters and hypens,

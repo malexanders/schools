@@ -2,7 +2,7 @@
 ENV['RAILS_ENV'] ||= 'test'
 require File.expand_path('../../config/environment', __FILE__)
 # Prevent database truncation if the environment is production
-abort("The Rails environment is running in production mode!") if Rails.env.production?
+abort('The Rails environment is running in production mode!') if Rails.env.production?
 
 require 'spec_helper'
 require 'rspec/rails'
@@ -29,9 +29,6 @@ require 'support/factory_girl.rb'
 ActiveRecord::Migration.maintain_test_schema!
 
 RSpec.configure do |config|
-
-
-
   # Remove this line if you're not using ActiveRecord or ActiveRecord fixtures
   # config.fixture_path = "#{::Rails.root}/spec/fixtures"
 
@@ -39,8 +36,8 @@ RSpec.configure do |config|
   # examples within a transaction, remove the following line or assign false
   # instead of true.
 
-  #NOTE - Set to false because we are going to use factories not fixtures.
-  #NOTE - I realized I don't fully understand what this is doing.
+  # NOTE - Set to false because we are going to use factories not fixtures.
+  # NOTE - I realized I don't fully understand what this is doing.
   config.use_transactional_fixtures = true
 
   # NOTE - review different available types

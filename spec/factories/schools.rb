@@ -1,5 +1,4 @@
 FactoryGirl.define do
-
   factory :school do
     name nil
     school_type nil
@@ -20,5 +19,4 @@ FactoryGirl.define do
   end
 
   # after(:create) { |object| p object }
-
 end

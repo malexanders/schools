@@ -9,7 +9,6 @@
 # will add to the boot time of your test suite on EVERY test run, even for an
 # individual file that may not need all of that loaded.
 
-
 # NOTE - Create a helper file that requires factory girl dependencies and performs any related set up?
 
 # Instead, consider making a separate helper file that requires the additional dependencies and performs
@@ -18,14 +17,8 @@
 # The `.rspec` file also contains a few flags that are not defaults but that
 # users commonly want.
 
-
-
-
 # See http://rubydoc.info/gems/rspec-core/RSpec/Core/Configuration
 RSpec.configure do |config|
-
-
-
   # Q: What is rspec-expectations?
 
   # rspec-expectations config goes here. You can use an alternate
@@ -40,19 +33,18 @@ RSpec.configure do |config|
     # ...rather than:
     #     # => "be bigger than 2"
 
-    #Q: What are custom matchers?
-    #Q: What are helper methods defined using chain? What do they do? Why are they useful?
+    # Q: What are custom matchers?
+    # Q: What are helper methods defined using chain? What do they do? Why are they useful?
 
     expectations.include_chain_clauses_in_custom_matcher_descriptions = true
   end
 
-  #Q: What is rspec-mocks?
+  # Q: What is rspec-mocks?
 
   # rspec-mocks config goes here. You can use an alternate test double
   # library (such as bogus or mocha) by changing the `mock_with` option here.
   config.mock_with :rspec do |mocks|
-
-    #Q: What is mocking and stubbing?
+    # Q: What is mocking and stubbing?
 
     # Prevents you from mocking or stubbing a method that does not exist on
     # a real object. This is generally recommended, and will default to
@@ -69,7 +61,7 @@ RSpec.configure do |config|
   # get run.
 
   # NOTE - This setting allows you to run only specified tests.
-  #Q: What does config.run_all_when_everything_filtered? do?
+  # Q: What does config.run_all_when_everything_filtered? do?
 
   config.filter_run :focus
   config.run_all_when_everything_filtered = true
@@ -78,12 +70,12 @@ RSpec.configure do |config|
   # the `--only-failures` and `--next-failure` CLI options. We recommend
   # you configure your source control system to ignore this file.
 
-  #Q: What are --only-failures and --next-failure CLI options?
-  #Q: What is CLI exactly?
+  # Q: What are --only-failures and --next-failure CLI options?
+  # Q: What is CLI exactly?
 
-  #NOTE - Suggest we add "spec/examples.txt" to git ignore?
+  # NOTE - Suggest we add "spec/examples.txt" to git ignore?
 
-  config.example_status_persistence_file_path = "spec/examples.txt"
+  config.example_status_persistence_file_path = 'spec/examples.txt'
 
   # Limits the available syntax to the non-monkey patched syntax that is
   # recommended. For more details, see:
@@ -91,7 +83,7 @@ RSpec.configure do |config|
   #   - http://www.teaisaweso.me/blog/2013/05/27/rspecs-new-message-expectation-syntax/
   #   - http://rspec.info/blog/2014/05/notable-changes-in-rspec-3/#zero-monkey-patching-mode
 
-  #Q: What is monkey patched syntax?
+  # Q: What is monkey patched syntax?
 
   config.disable_monkey_patching!
 
@@ -115,7 +107,7 @@ RSpec.configure do |config|
   # the seed, which is printed after each run.
   #     --seed 1234
 
-  #NOTE - by default rspec runs all tests randomly.
+  # NOTE - by default rspec runs all tests randomly.
 
   config.order = :random
 
@@ -124,10 +116,9 @@ RSpec.configure do |config|
   # test failures related to randomization by passing the same `--seed` value
   # as the one that triggered the failure.
 
-  #Q: What does --seed do exactly?
-  #Q: Seed global randomization?
-  #Q: What does the following line of code do exactly?
+  # Q: What does --seed do exactly?
+  # Q: Seed global randomization?
+  # Q: What does the following line of code do exactly?
 
   Kernel.srand config.seed
-
 end
