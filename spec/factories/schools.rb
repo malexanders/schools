@@ -1,6 +1,6 @@
 FactoryGirl.define do
 
-  after(:create) { |object| p object }
+  # after(:create) { |object| p object }
 
   factory :school do
     name nil

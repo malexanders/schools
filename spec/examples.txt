@@ -1,4 +1,4 @@
 example_id                          | status | run_time        |
 ----------------------------------- | ------ | --------------- |
-./spec/models/school_spec.rb[1:1:1] | failed | 0.00361 seconds |
-./spec/models/school_spec.rb[1:2:1] | failed | 0.02172 seconds |
+./spec/models/school_spec.rb[1:1:1] | passed | 0.00863 seconds |
+./spec/models/school_spec.rb[1:2:1] | passed | 0.02662 seconds |
