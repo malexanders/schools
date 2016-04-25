@@ -123,6 +123,29 @@ RSpec.describe School, type: :model do
       end
     end
 
+    context "when creating a school object with an improperly formatted slug" do
+      it "raises ActiveRecord::RecordInvalid error" do
+
+        expect{create(:school,
+                      name: valid_row[0],
+                      school_type: valid_row[1],
+                      mingrade: valid_row[2],
+                      maxgrade: valid_row[3],
+                      phone: valid_row[4],
+                      website: valid_row[5],
+                      language: valid_row[6],
+                      created_at: valid_row[7],
+                      updated_at: valid_row[8],
+                      is_catholic: valid_row[9],
+                      level: valid_row[10],
+                      street: valid_row[11],
+                      postal_code: valid_row[12],
+                      latitude: valid_row[13],
+                      slug: "esdfsdf-.sdfsdfsdf-_lksjdf",
+                      boundaries: valid_row[14])}.to raise_error(ActiveRecord::RecordInvalid)
+      end
+    end
+
 end
 
 
