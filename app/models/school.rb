@@ -27,9 +27,7 @@ class School < ActiveRecord::Base
   end
 
   def self.slug(string)
-    # string.gsub(/[^\s\w_]/, '').gsub(/\s/, '-').downcase
     string.gsub(/[^a-zA-Z\d\s:]/, '').gsub(/\s/, '-').downcase
-
   end
 
   def self.remove_non_alpha(string)

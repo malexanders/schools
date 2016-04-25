@@ -33,3 +33,6 @@ http://localhost:3000/schools
 To show json data for a single school, navigate to:
 http://localhost:3000/schools/:slug
 
+# Running Test Suite
+
+Run `rspec --format documentation` in terminal from inside the app directory.
